@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.75" name="ImageCup">
+  <DataContextMoniker Name="/ImageCupDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc616ac9-9a68-4870-a72a-64427b406211" absoluteBounds="0.75, 0.75, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/ImageCupDataContext/GameImage" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4c99afd5-75f9-434a-a54f-7b352bcec1da" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2b5a2db8-3c32-4a39-a15c-f5ddd99d12ba" absoluteBounds="3.75, 0.75, 2, 1.9068933105468751">
+      <DataClassMoniker Name="/ImageCupDataContext/TextEvolution" />
+      <nestedChildShapes>
+        <elementListCompartment Id="febac321-7096-4e5d-b8c1-6c2b583ec62b" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.346893310546875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="22e6bb03-ac62-4bbc-b212-3b1b1720d79b" absoluteBounds="0.75, 3.75, 2, 3.0156579589843755">
+      <DataClassMoniker Name="/ImageCupDataContext/ImagineCup" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efc3528d-3dbe-4b58-9cc4-3f48b04968cb" absoluteBounds="0.765, 4.21, 1.9700000000000002, 2.455657958984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d6fc56e2-2485-431d-bf20-88cac1b88f84" absoluteBounds="3.75, 3.75, 2, 1.7220992024739577">
+      <DataClassMoniker Name="/ImageCupDataContext/Info" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0e8c3c49-98f4-4826-a6f3-f962728d456d" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="49ffd6c1-5048-4869-9a02-9e99dce4f969" absoluteBounds="6.75, 0.75, 2, 2.2764815266927085">
+      <DataClassMoniker Name="/ImageCupDataContext/NewMenber_Application" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b75658af-74c7-4557-8df3-1947f9ec3e98" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.7164815266927085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b7d4c8da-056f-40c1-a3ad-9ca3ebf9293c" absoluteBounds="3.75, 6.75, 2, 1.7220992024739577">
+      <DataClassMoniker Name="/ImageCupDataContext/sysdiagrams" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ab98c10e-46c4-4355-b5b5-6e828420696b" absoluteBounds="3.765, 7.21, 1.9700000000000002, 1.1620992024739583" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
